@@ -1,0 +1,16 @@
+@charset "utf-8";
+main {
+    width:50%;
+    max-width:800px;
+    margin:auto;
+    background:#6699ff;
+    padding:10px
+}
+
+#nevem,#teendo,#lista{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+#adatfelvitel{
+    
+}
